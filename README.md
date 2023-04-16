@@ -20,7 +20,7 @@
 
 ### Connect Me
 
-[<img height=40 width=40 alt="Mail me" src="https://image.flaticon.com/icons/png/512/552/552486.png">](mailto:noneedhnn@gmail.com)
+[<img height=40 width=40 alt="Mail me" src="[https://image.flaticon.com/icons/png/512/552/552486.png](https://www.flaticon.com/free-icon/mail_666162)">](mailto:noneedhnn@gmail.com)
 [<img height=40 width=40 alt="Connect on LinkedIn" src="https://image.flaticon.com/icons/png/128/145/145807.png">](https://www.linkedin.com/in/deepanshudangi) 
 [<img height=40 width=40 alt="Visit my Twitter Profile" src="https://image.flaticon.com/icons/png/128/145/145812.png">](https://twitter.com/deepanshudangi) 
 [<img height=40 width=40 alt="Visit my Facebook Profile" src="https://image.flaticon.com/icons/png/128/145/145802.png">](https://www.facebook.com/deepanshu.dangi/) 

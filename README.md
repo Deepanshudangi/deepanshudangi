@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-## My name is Deepanshu Dangi from Udaipur, Rajasthan. studying @ Vit Bhopal University, MP.
+## Deepanshu Dangi from Udaipur, Rajasthan.  
+## VIT Bhopal
 
-- 🔭 I’m currently working on web development.
+- 🔭 I’m currently working on Blockachain.
 - 🌱 I’m currently learning cybersecurity and digital forensics.
-- 💬 Ask me about cyber security.
+- 💬 Ask me about cyber security,Blockchain.
 - 📫 How to reach me: email: noneedhnn@gmail.com
 
 

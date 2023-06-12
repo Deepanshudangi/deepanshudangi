@@ -2,11 +2,11 @@
 
 
 ## Deepanshu Dangi from Udaipur, Rajasthan.  
-## VIT Bhopal
+## VIT Bhopal University
 
-- 🔭 I’m currently working on Blockchain.
+- 🔭 I’m currently working on Blockchain and Cyber Security.
 - 🌱 I’m currently learning cybersecurity and digital forensics.
-- 💬 Ask me about cyber security,Blockchain.
+- 💬 Ask me about Cyber Security,Blockchain.
 - 📫 How to reach me: email: noneedhnn@gmail.com
 
 

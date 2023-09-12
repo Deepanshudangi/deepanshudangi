@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Blockchain and Cyber Security.
 - 🌱 I’m currently learning cybersecurity and digital forensics.
 - 💬 Ask me about Cyber Security,Blockchain.
-- 📫 How to reach me: email: noneedhnn@gmail.com
+- 📫 How to reach me: email: deepansuhdangi.work@gmail.com
 
 
 
